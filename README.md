@@ -1,10 +1,6 @@
 # Numerical Calculation of a Double Integral
 
-The assignment concerns the calculation of the double integral of the function \( f(x,y)=x^2+y^3 \) over a domain with \( y \) limits \([x, 2x]\) and \( x \) limits \([0,1]\):
-
-\[ 
-I = \int_{0}^{1} \int_{x}^{2x} (x^2 + y^3) \, dy \, dx 
-\]
+The assignment concerns the calculation of the double integral of the function \( f(x,y)=x^2+y^3 \) over a domain with \( y \) limits \([x, 2x]\) and \( x \) limits \([0,1]\).
 
 Two different approaches are used: Simpson's rule, which is a numerical calculation, and Monte Carlo integration. 
 
